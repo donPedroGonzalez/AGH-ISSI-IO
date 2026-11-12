@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfd43025-ada0-4ac5-8e6a-360579aa561f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.python-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pythonproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0003155934149695" />
+      <entry key="MS500" value="1.2446046969233746" />
+      <entry key="S2" value="2.401913946282086" />
+      <entry key="S5" value="3.1835234660659593" />
+      <entry key="S10" value="3.5537050282085705" />
+      <entry key="S30" value="3.9425471444361673" />
+      <entry key="S60" value="4.745825823678821" />
+      <entry key="M2" value="7.139706395715835" />
+      <entry key="M5" value="14.11682239674696" />
+      <entry key="M10" value="26.757557243384817" />
+      <entry key="M15" value="38.81501182007387" />
+      <entry key="M30" value="62.65719172352229" />
+      <entry key="H1" value="82.79138516221349" />
+      <entry key="H2" value="96.02763043972251" />
+      <entry key="H4" value="103.63716547686457" />
+      <entry key="D1" value="110.5506482087644" />
+      <entry key="W1" value="111.79154512626413" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="5.128749528731984E-75" />
+      <entry key="S2" value="2.6761032934639975E-19" />
+      <entry key="S5" value="3.723926914874321E-8" />
+      <entry key="S10" value="1.929747888941538E-4" />
+      <entry key="S30" value="0.05778745781349323" />
+      <entry key="S60" value="0.2404828898192041" />
+      <entry key="M2" value="0.49995665112350834" />
+      <entry key="M5" value="0.9392283859067642" />
+      <entry key="M10" value="1.5680441144184722" />
+      <entry key="M15" value="2.1023830951231037" />
+      <entry key="M30" value="3.088698433816589" />
+      <entry key="H1" value="3.8834755539257837" />
+      <entry key="H2" value="4.393846371465021" />
+      <entry key="H4" value="4.683826674718302" />
+      <entry key="D1" value="4.945381281889901" />
+      <entry key="W1" value="4.992148805331509" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.006661344370909894" />
+      <entry key="MS500" value="0.4233918086040795" />
+      <entry key="S2" value="1.792112298261698" />
+      <entry key="S5" value="2.8321749249963375" />
+      <entry key="S10" value="3.352706691367932" />
+      <entry key="S30" value="3.9239971266810887" />
+      <entry key="S60" value="4.941455702891816" />
+      <entry key="M2" value="7.609391654401297" />
+      <entry key="M5" value="15.034548053243824" />
+      <entry key="M10" value="28.307666071622325" />
+      <entry key="M15" value="40.901436226183364" />
+      <entry key="M30" value="65.73419458118708" />
+      <entry key="H1" value="86.66749495429674" />
+      <entry key="H2" value="100.417301456782" />
+      <entry key="H4" value="108.31876371316189" />
+      <entry key="D1" value="115.4956368379316" />
+      <entry key="W1" value="116.7836372944375" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3M1NWJlFpBjw3e79bPqcLpDqM4t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_calculator.py.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfd43025-ada0-4ac5-8e6a-360579aa561f" name="Changes" comment="" />
+      <created>1794514144039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794514144039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
